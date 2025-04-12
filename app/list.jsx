@@ -136,14 +136,14 @@ const styles = StyleSheet.create({
   },
   addButton: {
     backgroundColor: '#007AFF',
-    padding: 15,
-    borderRadius: 25,
+    padding: 5,
+    borderRadius: 5,
     alignItems: 'center',
     margin: 10,
   },
   addText: {
     color: '#fff',
-    fontSize: 25,
+    fontSize: 50,
     fontFamily: 'Jomhuria-Regular',
   },
 });

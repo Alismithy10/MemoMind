@@ -12,3 +12,4 @@
 
 
 4. Using an android phone or emulator, download Expo Go and enter the URL given from the terminal into the manual input. You should now be able to use the application without issue
+# MemoMind

@@ -12,7 +12,8 @@ export default function Index() {
       <Text style={styles.title}>How to use?</Text>
       <Text style={styles.text}>This application is supposed to be used to help you remember anything in your daily life, from habits to tasks and even events, you can use it for anything!</Text>
       <Text style={styles.title}>Statistics?</Text>
-      <Text style={styles.text}>Streaks and other statistics are used as an incentive to keep up with those tasks, it shows as a number in the top right of your screen with a number, this number represents how many days in a row you confirmed that you have kept up with your tasks</Text>
+      <Text style={styles.text}>Streaks and other statistics are used as an incentive to keep up with those tasks, it shows as a number in the top right of your screen with a number,
+      this number represents how many days in a row you confirmed that you have kept up with your tasks</Text>
     </View>
   );
 }

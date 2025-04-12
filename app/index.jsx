@@ -101,9 +101,10 @@ const styles = StyleSheet.create({
     borderRadius: 30,
     width: 240,
     alignItems: 'center',
+    color: '#007AFF'
   },
   buttonText: {
-    fontSize: 18,
+    fontSize: 20,
     color: '#f2ebff',
     fontWeight: '600',
   },

@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
   label: {
     fontWeight: 'bold',
     marginBottom: 4,
-    fontSize: 16,
+    fontSize: 20,
     color: 'white',
     fontFamily: 'Jomhuria-Regular'
   },
