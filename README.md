@@ -4,7 +4,9 @@
 
 2. Install dependencies
 
-   npx expo install react-native-screens @react-navigation/native @react-navigation/native-stack react-native-modal-datetime-picker @react-native-community/datetimepicker firebase expo-linear-gradient
+run 'npx expo install react-native-screens @react-navigation/native @react-navigation/native-stack react-native-modal-datetime-picker @react-native-community/datetimepicker firebase expo-linear-gradient'
+
+This will install all dependecies needed for the code to run
 
 3. Start the app
 
