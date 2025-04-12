@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Jomhuria-Regular',
   },
   addButton: {
-    backgroundColor: '#007AFF',
+    backgroundColor: '#6D54C1',
     padding: 5,
     borderRadius: 5,
     alignItems: 'center',

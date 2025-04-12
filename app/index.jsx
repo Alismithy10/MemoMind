@@ -79,8 +79,8 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   logo: {
-    width: 350,
-    height: 350,
+    width: 300,
+    height: 300,
     marginBottom: 36,
   },
   buttonWrapper: {
@@ -93,19 +93,19 @@ const styles = StyleSheet.create({
     shadowColor: '#cfaaff',
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.6,
-    shadowRadius: 8,
+    shadowRadius: 5,
   },
   button: {
-    paddingVertical: 14,
-    paddingHorizontal: 40,
-    borderRadius: 30,
-    width: 240,
+    paddingVertical: 5,
+    paddingHorizontal: 5,
+    borderRadius: 2,
+    width: 400,
     alignItems: 'center',
     color: '#007AFF'
   },
   buttonText: {
-    fontSize: 20,
+    fontSize: 50,
     color: '#f2ebff',
-    fontWeight: '600',
+    fontFamily: 'Jomhuria-Regular',
   },
 });
